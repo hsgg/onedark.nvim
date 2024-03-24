@@ -67,6 +67,7 @@ hl.common = {
     Whitespace = {fg = c.grey},
     SpecialKey = {fg = c.grey},
     Pmenu = {fg = c.fg, bg = c.bg1},
+    Pmenu2 = {fg = c.fg, bg = c.bg2},
     PmenuSbar = {fg = c.none, bg = c.bg1},
     PmenuSel = {fg = c.bg0, bg = c.bg_blue},
     WildMenu = {fg = c.bg0, bg = c.blue},
@@ -92,6 +93,7 @@ hl.common = {
     debugBreakpoint = {fg = c.bg0, bg = c.red},
     ToolbarButton = {fg = c.bg0, bg = c.bg_blue},
     FloatBorder = {fg = c.grey, bg = c.bg1},
+    FloatBorder2 = {fg = c.grey, bg = c.bg2},
     NormalFloat = {fg = c.fg, bg = c.bg1},
 }
 
